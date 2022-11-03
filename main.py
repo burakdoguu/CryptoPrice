@@ -29,7 +29,7 @@ except KeyError:
     
 
 if __name__ == "__main__":
-    logger.info(f"Token value: {SOME_SECRET}")
+    #logger.info(f"Token value: {SOME_SECRET}")
 
     watch_list = ['BTC-USD', 'ETH-USD', 'ALGO-USD', 'MATIC-USD']
     
