@@ -200,3 +200,7 @@
 2022-11-06 05:19:14,987 - __main__ - INFO - crypto_name: ETH-USD, price:1617.28
 2022-11-06 05:19:15,097 - __main__ - INFO - crypto_name: ALGO-USD, price:0.4277
 2022-11-06 05:19:15,185 - __main__ - INFO - crypto_name: MATIC-USD, price:1.1515
+2022-11-06 06:26:55,913 - __main__ - INFO - crypto_name: BTC-USD, price:21178.38
+2022-11-06 06:26:55,994 - __main__ - INFO - crypto_name: ETH-USD, price:1615.84
+2022-11-06 06:26:56,083 - __main__ - INFO - crypto_name: ALGO-USD, price:0.4245
+2022-11-06 06:26:56,171 - __main__ - INFO - crypto_name: MATIC-USD, price:1.1493
